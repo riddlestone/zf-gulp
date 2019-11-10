@@ -1,10 +1,10 @@
 <?php
 
-namespace Clockwork\Gulp\Test;
+namespace Riddlestone\ZF\Gulp\Test;
 
-use Clockwork\Gulp\Console\GulpCommand;
-use Clockwork\Gulp\GulpFileContentGenerator;
-use Clockwork\Gulp\Module;
+use Riddlestone\ZF\Gulp\Console\GulpCommand;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\Module;
 use PHPUnit\Framework\TestCase;
 
 class ModuleTest extends TestCase

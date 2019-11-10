@@ -1,10 +1,10 @@
 <?php
 
-namespace Clockwork\Gulp\Test\Console;
+namespace Riddlestone\ZF\Gulp\Test\Console;
 
-use Clockwork\Gulp\Console\GulpCommand;
-use Clockwork\Gulp\Console\GulpCommandFactory;
-use Clockwork\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\Console\GulpCommand;
+use Riddlestone\ZF\Gulp\Console\GulpCommandFactory;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
 use Exception;
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;

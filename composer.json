@@ -1,15 +1,14 @@
 {
-    "name": "clockwork/gulp",
+    "name": "riddlestone/zf-gulp",
     "description": "A Zend Framework 2 module for Gulp configuration",
     "keywords": [
-        "clockwork",
         "gulp",
-        "zf2"
+        "zf"
     ],
     "type": "library",
     "require": {
         "php": "^7.3",
-        "clockwork/console": "^1.0",
+        "riddlestone/zf-console": "^1.0",
         "container-interop/container-interop": "^1.2",
         "symfony/console": "^4.3",
         "zendframework/zend-component-installer": "^1.0 || ^0.7",
@@ -17,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Clockwork\\Gulp\\": "src/"
+            "Riddlestone\\ZF\\Gulp\\": "src/"
         }
     },
     "require-dev": {
@@ -25,16 +24,16 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Clockwork\\Gulp\\Test\\": "test/"
+            "Riddlestone\\ZF\\Gulp\\Test\\": "test/"
         }
     },
     "extra": {
         "zf": {
-            "component": "Clockwork\\Gulp"
+            "component": "Riddlestone\\ZF\\Gulp"
         }
     },
     "scripts": {
-        "test": "vendor/bin/phpunit"
+        "test": "phpunit"
     },
     "license": "BSD-3-Clause",
     "authors": [

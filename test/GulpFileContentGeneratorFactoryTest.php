@@ -1,11 +1,11 @@
 <?php
 
-namespace Clockwork\Gulp\Test;
+namespace Riddlestone\ZF\Gulp\Test;
 
-use Clockwork\Gulp\GulpFileContentGenerator;
-use Clockwork\Gulp\GulpFileContentGeneratorFactory;
-use Clockwork\Gulp\PipelineInterface;
-use Clockwork\Gulp\PipelineProviderInterface;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\GulpFileContentGeneratorFactory;
+use Riddlestone\ZF\Gulp\PipelineInterface;
+use Riddlestone\ZF\Gulp\PipelineProviderInterface;
 use Exception;
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;

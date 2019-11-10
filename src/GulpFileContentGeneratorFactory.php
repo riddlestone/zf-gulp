@@ -1,6 +1,6 @@
 <?php
 
-namespace Clockwork\Gulp;
+namespace Riddlestone\ZF\Gulp;
 
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Clockwork\Gulp\Console;
+namespace Riddlestone\ZF\Gulp\Console;
 
-use Clockwork\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;

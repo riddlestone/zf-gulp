@@ -1,9 +1,9 @@
 <?php
 
-namespace Clockwork\Gulp\Test\Console;
+namespace Riddlestone\ZF\Gulp\Test\Console;
 
-use Clockwork\Gulp\Console\GulpCommand;
-use Clockwork\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\Console\GulpCommand;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
 use Exception;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\Console\Input\InputInterface;

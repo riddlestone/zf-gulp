@@ -1,9 +1,9 @@
 <?php
 
-namespace Clockwork\Gulp;
+namespace Riddlestone\ZF\Gulp;
 
-use Clockwork\Gulp\Exception\MultiplePackageAliasesException;
-use Clockwork\Gulp\Exception\PackageAndPackagePropertyImportedException;
+use Riddlestone\ZF\Gulp\Exception\MultiplePackageAliasesException;
+use Riddlestone\ZF\Gulp\Exception\PackageAndPackagePropertyImportedException;
 use Exception;
 
 /**

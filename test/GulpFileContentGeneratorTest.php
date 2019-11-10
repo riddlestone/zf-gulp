@@ -1,11 +1,11 @@
 <?php
 
-namespace Clockwork\Gulp\Test;
+namespace Riddlestone\ZF\Gulp\Test;
 
-use Clockwork\Gulp\Exception\MultiplePackageAliasesException;
-use Clockwork\Gulp\Exception\PackageAndPackagePropertyImportedException;
-use Clockwork\Gulp\GulpFileContentGenerator;
-use Clockwork\Gulp\PipelineInterface;
+use Riddlestone\ZF\Gulp\Exception\MultiplePackageAliasesException;
+use Riddlestone\ZF\Gulp\Exception\PackageAndPackagePropertyImportedException;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\PipelineInterface;
 use Exception;
 use PHPUnit\Framework\TestCase;
 

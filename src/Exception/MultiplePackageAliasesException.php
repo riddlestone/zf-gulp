@@ -1,6 +1,6 @@
 <?php
 
-namespace Clockwork\Gulp\Exception;
+namespace Riddlestone\ZF\Gulp\Exception;
 
 use Exception;
 use Throwable;

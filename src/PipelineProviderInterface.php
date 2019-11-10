@@ -1,6 +1,6 @@
 <?php
 
-namespace Clockwork\Gulp;
+namespace Riddlestone\ZF\Gulp;
 
 /**
  * Interface PipelineProviderInterface

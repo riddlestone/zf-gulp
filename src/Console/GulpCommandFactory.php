@@ -1,8 +1,8 @@
 <?php
 
-namespace Clockwork\Gulp\Console;
+namespace Riddlestone\ZF\Gulp\Console;
 
-use Clockwork\Gulp\GulpFileContentGenerator;
+use Riddlestone\ZF\Gulp\GulpFileContentGenerator;
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;
 use Zend\ServiceManager\Exception\ServiceNotCreatedException;

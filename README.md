@@ -1,4 +1,4 @@
-# Clockwork Console
+# Riddlestone ZF-Console
 
 A [Zend Framework 2](https://github.com/zendframework) module for [Gulp](https://gulpjs.com/) configuration
 
@@ -8,12 +8,12 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require clockwork/gulp
+composer require riddlestone/zf-gulp
 ```
 
 ## Usage
 
-To include your Gulp pipeline in the generated configuration file, create a `Clockwork\Gulp\ProviderInterface`
+To include your Gulp pipeline in the generated configuration file, create a `Riddlestone\ZF\Gulp\ProviderInterface`
 implementation, and add it to your module's config file:
 
 ```php
@@ -32,7 +32,7 @@ return [
 ];
 ```
 
-Have the provider return an array of `Clockwork\Gulp\PipelineInterface` objects.
+Have the provider return an array of `Riddlestone\ZF\Gulp\PipelineInterface` objects.
 
 You can then generate `gulpfile.js` using the console command :
 ```sh
@@ -41,4 +41,4 @@ vendor/bin/console gulp
 
 ## Get Involved
 
-File issues at https://github.com/ariddlestone/clockwork-gulp/issues
+File issues at https://github.com/riddlestone/zf-gulp/issues
