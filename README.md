@@ -1,4 +1,4 @@
-# Riddlestone ZF-Console
+# Riddlestone ZF-Gulp
 
 A [Zend Framework 2](https://github.com/zendframework) module for [Gulp](https://gulpjs.com/) configuration
 
