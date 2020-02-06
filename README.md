@@ -2,6 +2,12 @@
 
 A [Zend Framework 2](https://github.com/zendframework) module for [Gulp](https://gulpjs.com/) configuration
 
+> ## Repository archived 2020-02-06
+>
+> This repository has been replaced with [riddlestone/brokkr-gulpfile](https://github.com/riddlestone/brokkr-gulpfile).
+>
+> Note that the new package is much simpler, so some work will be involved in switching to use it.
+
 ## Installation
 
 Installation of this module uses composer. For composer documentation, please refer to
